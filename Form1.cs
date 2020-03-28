@@ -56,7 +56,7 @@ namespace WeExtract
 
             using (file)
             {
-                file.Filter = "zip files (*.zip)|*.zip|All files (*.*)|*.*";
+                file.Filter = "Archivos zip (*.zip)|*.zip|All files (*.*)|*.*";
                 if (file.ShowDialog() == DialogResult.OK)
                 {
                     Console.WriteLine("Hola");

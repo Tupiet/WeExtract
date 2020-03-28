@@ -8,3 +8,13 @@ C:\Users\aleix\source\repos\WeExtract\WeExtract\obj\Debug\WeExtract.csproj.Gener
 C:\Users\aleix\source\repos\WeExtract\WeExtract\obj\Debug\WeExtract.csproj.CoreCompileInputs.cache
 C:\Users\aleix\source\repos\WeExtract\WeExtract\obj\Debug\WeExtract.exe
 C:\Users\aleix\source\repos\WeExtract\WeExtract\obj\Debug\WeExtract.pdb
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Debug\WeExtract.exe.config
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Debug\WeExtract.exe
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Debug\WeExtract.pdb
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.csprojAssemblyReference.cache
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.Form1.resources
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.Properties.Resources.resources
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.csproj.GenerateResource.cache
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.csproj.CoreCompileInputs.cache
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.exe
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.pdb
