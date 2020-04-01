@@ -18,3 +18,8 @@ C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.csproj.GenerateRes
 C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.csproj.CoreCompileInputs.cache
 C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.exe
 C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.pdb
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Debug\WeExtract.csproj.CopyComplete
