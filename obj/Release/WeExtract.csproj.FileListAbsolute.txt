@@ -1,0 +1,14 @@
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Release\WeExtract.exe.config
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Release\WeExtract.exe
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Release\WeExtract.pdb
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\aleix\Documents\GitHub\WeExtract\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Release\WeExtract.Form1.resources
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Release\WeExtract.Properties.Resources.resources
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Release\WeExtract.csproj.GenerateResource.cache
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Release\WeExtract.csproj.CoreCompileInputs.cache
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Release\WeExtract.csproj.CopyComplete
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Release\WeExtract.exe
+C:\Users\aleix\Documents\GitHub\WeExtract\obj\Release\WeExtract.pdb
